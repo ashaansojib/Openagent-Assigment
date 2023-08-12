@@ -1,3 +1,0 @@
-Name: Ashaduzzaman Sojib
-Skills: ReactJS, NodeSJ, MongoDB, TypeScript, MySQL, TailwindCSS
-Email: ashaduzzamansojib67@gmail.com
